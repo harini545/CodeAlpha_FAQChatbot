@@ -52,8 +52,10 @@ CodeAlpha_FAQChatbot/
 ```
 
 live demo:https://codealpha-faqchatbot.streamlit.app/
+---
+📌 About
 
-Create 
+AI Python FAQ Chatbot is an intelligent Python learning assistant that combines Semantic Search and Groq AI to answer Python programming questions accurately. It first retrieves relevant answers from a curated FAQ database using Sentence Transformers and automatically switches to Groq AI for advanced or unseen questions, providing a fast, reliable, and interactive learning experience.
 ---
 
 ## 🧪 How It Works
@@ -65,7 +67,9 @@ Create
 5. Otherwise, Groq AI generates a detailed response.
 
 ---
+Acknowledgement
 
+This project was developed as part of the CodeAlpha Artificial Intelligence Internship Program to demonstrate practical skills in Artificial Intelligence, Natural Language Processing, Semantic Search, Large Language Model integration, API development, and interactive AI application development using Python, Streamlit, Sentence Transformers, and Groq AI.
 
 ---
 
