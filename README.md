@@ -51,40 +51,9 @@ CodeAlpha_FAQChatbot/
 └── screenshots/
 ```
 
----
+live demo:https://codealpha-faqchatbot.streamlit.app/
 
-## ⚙️ Installation
-
-Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/CodeAlpha_FAQChatbot.git
-```
-
-Navigate into the project:
-
-```bash
-cd CodeAlpha_FAQChatbot
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Create a `.env` file:
-
-```
-GROQ_API_KEY=your_api_key_here
-```
-
-Run the application:
-
-```bash
-streamlit run app.py
-```
-
+Create 
 ---
 
 ## 🧪 How It Works
